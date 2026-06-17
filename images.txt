@@ -6,3 +6,5 @@
 --platform=linux/arm64 portainer/portainer-ce:2.24.0
 --platform=linux/arm64 jellyfin/jellyfin:10.10.3
 --platform=linux/arm64 lscr.io/linuxserver/calibre-web:latest
+--platform=linux/arm64 hanxi/xiaomusic
+--platform=linux/arm64 songloft/songloft:latest
