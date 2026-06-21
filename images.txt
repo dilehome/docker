@@ -3,8 +3,9 @@
 --platform=linux/arm64 halohub/halo:2.21.5
 --platform=linux/arm64 mysql:8.0.36
 --platform=linux/arm64 jc21/nginx-proxy-manager:latest
---platform=linux/arm64 portainer/portainer-ce:2.24.0
+--platform=linux/arm64 portainer/portainer-ce:sts
 --platform=linux/arm64 jellyfin/jellyfin:10.10.3
 --platform=linux/arm64 lscr.io/linuxserver/calibre-web:latest
 --platform=linux/arm64 hanxi/xiaomusic
 --platform=linux/arm64 songloft/songloft:latest
+--platform=linux/arm64 lyswhut/lx-music-sync-server:latest
