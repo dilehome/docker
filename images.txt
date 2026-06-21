@@ -1,10 +1,10 @@
 --platform=linux/arm64 jeessy/ddns-go
---platform=linux/arm64 ghcr.io/seriousm4x/upsnap:4.3.4
---platform=linux/arm64 halohub/halo:2.21.5
---platform=linux/arm64 mysql:8.0.36
+--platform=linux/arm64 ghcr.io/seriousm4x/upsnap:latest
+--platform=linux/arm64 halohub/halo:latest
+--platform=linux/arm64 mysql:latest
 --platform=linux/arm64 jc21/nginx-proxy-manager:latest
 --platform=linux/arm64 portainer/portainer-ce:sts
---platform=linux/arm64 jellyfin/jellyfin:10.10.3
+--platform=linux/arm64 jellyfin/jellyfin:latest
 --platform=linux/arm64 lscr.io/linuxserver/calibre-web:latest
 --platform=linux/arm64 hanxi/xiaomusic
 --platform=linux/arm64 songloft/songloft:latest
