@@ -3,10 +3,7 @@
 --platform=linux/arm64 halohub/halo:latest
 --platform=linux/arm64 mysql:latest
 --platform=linux/arm64 jc21/nginx-proxy-manager:latest
---platform=linux/arm64 portainer/portainer-ce:sts
---platform=linux/arm64 jellyfin/jellyfin:latest
---platform=linux/arm64 lscr.io/linuxserver/calibre-web:latest
---platform=linux/arm64 hanxi/xiaomusic
+--platform=linux/arm64 portainer/portainer-ce:lts
 --platform=linux/arm64 songloft/songloft:latest
 --platform=linux/arm64 ghcr.io/xcq0607/lxserver:latest
 --platform=linux/arm64 ghcr.io/home-assistant/home-assistant:latest
