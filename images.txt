@@ -1,10 +1,9 @@
 --platform=linux/arm64 jeessy/ddns-go
 --platform=linux/arm64 ghcr.io/seriousm4x/upsnap:latest
---platform=linux/arm64 registry.fit2cloud.com/halo/halo-pro:latest
+--platform=linux/arm64 registry.fit2cloud.com/halo/halo:latest
 --platform=linux/arm64 mysql:latest
 --platform=linux/arm64 jc21/nginx-proxy-manager:latest
 --platform=linux/arm64 portainer/portainer-ce:lts
 --platform=linux/arm64 songloft/songloft:latest
 --platform=linux/arm64 ghcr.io/xcq0607/lxserver:latest
 --platform=linux/arm64 ghcr.io/home-assistant/home-assistant:latest
---platform=linux/arm64 lyswhut/lx-music-sync-server:latest
