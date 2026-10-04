@@ -1,6 +1,6 @@
+--platform=linux/arm64 halohub/halo:2.26
 --platform=linux/arm64 jeessy/ddns-go
 --platform=linux/arm64 ghcr.io/seriousm4x/upsnap:latest
---platform=linux/arm64 registry.fit2cloud.com/halo/halo:2.27
 --platform=linux/arm64 mysql:latest
 --platform=linux/arm64 jc21/nginx-proxy-manager:latest
 --platform=linux/arm64 portainer/portainer-ce:lts
