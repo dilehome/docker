@@ -1,1 +1,1 @@
---platform=linux/arm64 halohub/halo:2.26
+--platform=linux/arm64 songloft/songloft:latest
