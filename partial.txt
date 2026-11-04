@@ -1,1 +1,1 @@
---platform=linux/arm64 songloft/songloft:latest
+--platform=linux/arm64 surveyking/surveyking:latest
